@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sg-props/asgard-matrix/asgard_extra_crystal"
+	
+	"$surfaceprop" "metal"
+
+	"$model" 1
+	"$bumpmap" "sg-props/asgard-matrix/asgard_extra_crystal_nrm"
+	"$normalmap" "sg-props/asgard-matrix/asgard_extra_crystal_nrm"
+	"$selfillummask" "sg-props/asgard-matrix/asgard_extra_crystal_ao"
+
+
+	"$phong"     "1"
+	"$halflambert"	1
+ 	"$phongboost"   "2"
+ 	"$phongfresnelranges"   "[0.01 0.22 0.95]"
+

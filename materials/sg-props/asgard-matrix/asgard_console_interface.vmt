@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"sg-props/asgard-matrix/asgard_console_interface_on"
+
+	"$emissiveBlendEnabled"     "1" // Enables effect
+	"$selfillum" 1
+	"$nodecal" "1"
+	"$surfaceprop" "Glass"
+
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "sg-props/asgard-matrix/crystal"
+	"$bumpmap" "sg-props/asgard-matrix/crystal_nrm"
+	"$normalmap" "sg-props/asgard-matrix/crystal_nrm"
+	"$nodecal" "1"
+	"$alpha" 0.7
+	"$translucent" 1
+	"$nocull" 0	
+	"$surfaceprop" "glass"
+	"$selfillum" 0	
+	"$model" 1
+
+}
